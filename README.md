@@ -87,7 +87,7 @@ Run this command:
 
 ```sh
   cd my-folder
-  git clone https://github.com/pradmon/review-code
+  git clone https://github.com/Luiscarlosvd/jorgeyluis
 ```
 
 ### Install
